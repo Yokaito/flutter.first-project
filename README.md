@@ -1,6 +1,6 @@
 # first_flutter
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/bbd1967c-30f0-4a90-a48f-b26d0a7e7092)
 
 ## Getting Started
 
